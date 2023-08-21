@@ -1,3 +1,8 @@
+/* Right here, I was practicing stored procedures. 
+	- why we use stored procedures
+	- what are the differences betweenn stored procedures, routines and user-defined functions
+	- explain every procedures
+*/
 use employees;
 
 drop procedure if exists select_employees;
