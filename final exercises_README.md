@@ -2,7 +2,7 @@
 
 ### Udemy Course Information
 
-This repository is created to solve different SQL queries. Below, you can find explanations for each query's purpose, where they could be useful, and the SQL features used. Additionally, these questions were taken from the Udemy course "SQL - MySQL for Data Analytics and Business Intelligence" by 365 Careers. You can find the course at this link.
+This repository is created to solve different SQL queries. Below, you can find explanations for each query's purpose, where they could be useful, and the SQL features used. Additionally, these questions were taken from the Udemy course "SQL - MySQL for Data Analytics and Business Intelligence" by 365 Careers. You can find the course at https://www.udemy.com/course/sql-mysql-for-data-analytics-and-business-intelligence/.
 
 ## SQL Practice Queries
 
